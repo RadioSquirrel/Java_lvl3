@@ -1,5 +1,5 @@
 /**
- * Java Level 3. Lesson 5. Homework 5.
+ * Java Level 3. Homework 5.
  * @author Maya Plieva
  * @version Feb 03 2019
  */
