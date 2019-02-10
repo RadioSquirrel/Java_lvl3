@@ -3,7 +3,7 @@
  * @author Maya Plieva
  * @version Feb 07 2019
  */
-
+// Тестирование
 // Main.java
 package ru.geekbrains.homework6;
 
@@ -136,7 +136,7 @@ public class ArrayCheck1And4MassTest {
 }
 
 //------------------------------------
-
+// Логирование
 // Server.java
 package ru.geekbrains;
 
